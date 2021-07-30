@@ -1,6 +1,8 @@
 <div align="center">
 ![Learning Vue Essentials](https://user-images.githubusercontent.com/18647990/127717508-973fefe2-a9c0-4b88-bbb4-95c0e8225c85.png)
 </div>
+![Untitled design](https://user-images.githubusercontent.com/18647990/127717651-5900ffae-656a-40de-b1d6-42612d0af1cd.png)
+
 
 <h2 align="center">Learning Vue Essentials</h2>
 
