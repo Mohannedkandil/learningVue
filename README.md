@@ -14,7 +14,6 @@
 
 # About 
 > All codes I write while learning Vue.JS, new commit = new Lesson.
-![Untitled design](https://user-images.githubusercontent.com/18647990/127717651-5900ffae-656a-40de-b1d6-42612d0af1cd.png)
 
 ## Learning path
 
