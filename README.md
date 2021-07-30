@@ -1,3 +1,4 @@
+![84589158-10fd0480-ae2d-11ea-972d-3800f5fa2753](https://user-images.githubusercontent.com/18647990/127717724-97660f60-ef09-4c43-bf94-6dabdba1d8a7.png)
 <div align="center">
 ![Learning Vue Essentials](https://user-images.githubusercontent.com/18647990/127717508-973fefe2-a9c0-4b88-bbb4-95c0e8225c85.png)
 </div>
